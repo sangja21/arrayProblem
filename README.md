@@ -1,4 +1,9 @@
 
+
+## 문제풀이 시도과정
+<img src="https://user-images.githubusercontent.com/90735202/252695032-d012d937-2f29-4765-bdb6-31e365f5a97a.jpeg" width="500" height="700">
+
+
 ## 2차원 배열 자바코드로 작성하기
 <img src="https://user-images.githubusercontent.com/90735202/252681435-3e1de8f6-865f-454e-b5c6-52933ab8b088.jpg" width="500" height="500">
 
