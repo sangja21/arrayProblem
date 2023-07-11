@@ -24,7 +24,7 @@ int[][] array = new int[5][5];
 <img src="https://user-images.githubusercontent.com/90735202/252686995-fd7aab4c-012f-4a84-8e7e-a4ecd3bb426c.png" width="500" height="500">
 
 #### 5*5배열에 숫자를 넣을 때 두번째 조건 : |i-2| + |j-2| != 4 일경우
-<img src="https://user-images.githubusercontent.com/90735202/252687065-6bb9aa0f-8c85-4c41-a4d6-3e1370552c7e.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/90735202/252690827-cacc5979-47a5-42eb-8177-79a32ddb59f9.png" width="500" height="500">
 
 #### 두가지 조건을 만족하는 이중반복문 출력 결과
 ```
